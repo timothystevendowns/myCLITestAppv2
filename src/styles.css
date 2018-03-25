@@ -1,1 +1,3 @@
 /* You can add global styles to this file, and also import other style files */
+BODY {font-family: serif; background-color: silver;}
+H1 {font: x-large Verdana, sans-serif; color: red;}
